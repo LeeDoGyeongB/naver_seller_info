@@ -9,7 +9,20 @@ git clone naver_seller_info
 ````
 가상환경은 따로 사용하지 않았지만, 가상환경에서 실행하면 더 빠른 결과를 낼 수 있을 것으로 기대됨.
   
+## Structure
+```
+naver_seller_info/
+│
+├── src/                            # 소스 코드를 포함하는 디렉터리
+│   └── main.py                     # 메인 스크립트 파일
+│
+├── tests/                          # 테스트 코드를 포함하는 디렉터리
+│   └── scrapping_seller_info.py
+│
+├── .gitignore                      # Git에서 추적하지 않을 파일 목록
+└── README.md                       # 프로젝트에 대한 개요와 설치, 사용 방법 등을 설명하는 파일
 
+```
 
-## 정보
+## Author
 이도경 - dokat@kakao.com
