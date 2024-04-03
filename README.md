@@ -24,5 +24,5 @@ naver_seller_info/
 
 ```
 
-## Author
+## Author
 이도경 - dokat@kakao.com
